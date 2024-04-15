@@ -1,0 +1,7 @@
+\\Serv31\для сохранения работ\215 группа\Ткачук Анастасия\ConsoleApp19\obj\Debug\ConsoleApp19.csproj.AssemblyReference.cache
+\\Serv31\для сохранения работ\215 группа\Ткачук Анастасия\ConsoleApp19\obj\Debug\ConsoleApp19.csproj.CoreCompileInputs.cache
+\\Serv31\для сохранения работ\215 группа\Ткачук Анастасия\ConsoleApp19\bin\Debug\ConsoleApp19.exe.config
+\\Serv31\для сохранения работ\215 группа\Ткачук Анастасия\ConsoleApp19\bin\Debug\ConsoleApp19.exe
+\\Serv31\для сохранения работ\215 группа\Ткачук Анастасия\ConsoleApp19\bin\Debug\ConsoleApp19.pdb
+\\Serv31\для сохранения работ\215 группа\Ткачук Анастасия\ConsoleApp19\obj\Debug\ConsoleApp19.exe
+\\Serv31\для сохранения работ\215 группа\Ткачук Анастасия\ConsoleApp19\obj\Debug\ConsoleApp19.pdb
